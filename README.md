@@ -1,4 +1,4 @@
-# Predicting the nations champtionship 2026
+# Predicting the Nations Champtionship 2026
 
 This project utilises Bayesian hierachical modelling to model the upcoming nations championship using PyMC.
 
@@ -9,7 +9,7 @@ I have made a few different classes which implement different model types. They 
 
 `rugbyModels.py` contains the RugbyModel class with helper functions to simulate the tournament and plot findings along with some model stucture subclasses which can be used to fit different model types. 
 
-For model selection see `model_comparison.ipynb`. For the tournament simulation and rpeiction (the fun stuff) see `predictions.ipynb`.
+For model selection see `model_comparison.ipynb`. For the tournament simulation and preiction (the fun stuff) see `predictions.ipynb`.
 
 ## Requirements
     - numpy 
